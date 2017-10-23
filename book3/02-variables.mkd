@@ -438,7 +438,7 @@ resumes and `input` returns what the user typed as a string.
 \index{Python 2.0}
 
 ~~~~ {.python}
->>> input = input()
+>>> input = input() 
 Some silly stuff
 >>> print(input)
 Some silly stuff
